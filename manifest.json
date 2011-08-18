@@ -1,0 +1,18 @@
+{
+  "version": "1.2",
+  "name": "Black Frame",
+  "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_section": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_frame": "images/theme.png",
+         "theme_tab_background": "images/tab_background.png"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   }
+}
